@@ -1,5 +1,5 @@
 # How to Digitally Sign a PDF Document using the Blazor PDF Library
-A quick start Blazor project that shows how to create a PDF digital signature, customize it, add a timestamp, and add multiple signatures to a PDF document using Syncfusion PDF Library.
+A quick start Blazor project that shows how to create a PDF digital signature, customize it, add a timestamp, and add multiple signatures to a PDF document using Syncfusion&reg; PDF Library.
 
 Example: https://blazor.syncfusion.com/demos/pdf/digital-signature?theme=fluent
 
